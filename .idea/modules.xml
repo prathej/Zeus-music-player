@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Zeus-Music-Player-master.iml" filepath="$PROJECT_DIR$/.idea/Zeus-Music-Player-master.iml" group="Zeus-Music-Player-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Zeus-Music-Player-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/player/player.iml" filepath="$PROJECT_DIR$/.idea/modules/player/player.iml" group="Zeus-Music-Player-master/player" />
+    </modules>
+  </component>
+</project>
